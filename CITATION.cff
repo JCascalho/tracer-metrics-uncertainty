@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Tracer Metrics Uncertainty"
+version: "1.0.0"
+date-released: "2026-06-09"
+authors:
+  - family-names: "Cascalho"
+    given-names: "Joao"
+    affiliation: "FCUL / IDL - University of Lisbon"
+license: "MIT"
+repository-code: "https://github.com/JCascalho/tracer-metrics-uncertainty"
+abstract: "Python routine for estimating bootstrap uncertainty in sediment-tracer centre-of-mass positions and derived transport metrics using Cartesian x/y coordinates."
+keywords:
+  - sediment tracers
+  - uncertainty analysis
+  - bootstrap
+  - centre of mass
+  - sediment transport
+
